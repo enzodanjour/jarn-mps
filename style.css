@@ -1,8 +1,9 @@
 body{
-    background-color: rgb(230, 63, 72);
+    background-color: lightcoral;
 }
 .label{
     color: aliceblue;
+    align-content: center;
 }
 #sublabel{
     font-size: 26px;
